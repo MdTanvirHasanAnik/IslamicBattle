@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="হুনাইনের যুদ্ধ ও মক্কা বিজয়ের প্রভাব"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/text_views"
+        android:text="নবী মুহাম্মাদ ও তার অনুসারীগণ কর্তৃক বেদুঈন গোত্র হাওয়াজিন ও তার উপশাখা সাকিফ এর বিরুদ্ধে মক্কা থেকে তাইফের পথে একটি রাস্তায় ৬৩০ সালে লড়াইকৃত একটি যুদ্ধ। মুসলিমদের বিজয়ের মাধ্যমে যুদ্ধটি সমাপ্ত হয়, যারা অসংখ্য গনিমতের মাল দখল করে নেয়। সূরা তওবা তে এই যুদ্ধের উল্লেখ আছে, যা কুরআনে উল্লেখিত স্বল্পসংখ্যক যুদ্ধের মধ্যে অন্যতম। মক্কা বিজিত হবার সঙ্গে সঙ্গেই আরবের দূর-দূরাঞ্চল থেকে বিভিন্ন গোত্রের লোকেরা এসে ইসলাম কবুল করতে লাগলো। এতদসত্ত্বেও যে সব লোকের অন্তরে ইসলামী আন্দোলনের প্রতি ঘৃণা ও বিদ্বেষ বর্তমান ছিলো, তারা এ দৃশ্য দেখে যারপর নাই অস্তির হয়ে উঠলো। তাদের ভেতরে বিদ্বেষ ও বিরুদ্ধতার আগুন দাউ দাউ করে জ্বলে উঠলো। এদিক দিয়ে হুনাইনের অধিবাসী হাওয়াজেন ও সাকীফ নামক দুটি গোত্র অত্যন্ত অগ্রবর্তী ছিলো। তারা এমনিতেও খুব যুদ্ধবাজ লোক ছিলো; তদুপরি ইসলামের অগ্রগতি দেখে তারা আরো অস্তির হয়ে পড়লো। তারা স্পষ্টত বুঝতে পারলো, মক্কার পর এবার তাদের পালা। তাই উভয় গোত্রের প্রধানদ্বয় একত্র হয়ে পরামর্শ করলো এবং এই সিদ্ধান্ত নিলো যে, পরিস্তিতি যা-ই হোক না কেন, দৃঢ়তার সাথে মুসলমানদের মুকাবিলা করতে হবে। কারণ ক্রমবর্ধমান বিপদকে প্রতিরোধ করতে না পারলে তাদের কল্যাণ নেই। এই সিদ্ধান্ত অনুযায়ী তারা মালিক ইবনে আওফ নাযারী নামক তাদের জনৈক সর্দারকে বাদশাহ মনোনীত করলো এবং মুসলমানদের মুকাবিলা করার জন্যে সর্বাত্নক প্রস্তুতি শুরু করে দিলো। এ ব্যাপারে তারা আরো বহু গোত্রকে নিজেদের সঙ্গী বানিয়ে নিলো। যুদ্ধে তায়েফ দুর্গে তারা পর্যদুস্ত হয়ে আটক হয়ে পড়ে। নবী পরবর্তীতে তাদের কল্যানের জন্য দোয়া করে তাদের ক্ষমা করে দেন।"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+
+</LinearLayout>

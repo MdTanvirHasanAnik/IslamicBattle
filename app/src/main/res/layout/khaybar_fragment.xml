@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="খায়বারে যুদ্ধে ইহুদি ও মুর্তিপুজারিদের পরাজয়"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/text_views"
+        android:text="খায়বারের যুদ্ধ ৬২৯ খ্রিষ্টাব্দে তৎকালীন আরবের মদিনা নগরী থেকে ১৫০ কিলোমিটার (৯৩ মা) দুরে অবস্থিত খায়বার নামক মরুভূমিতে বসবাসরত ইহুদিগণের সাথে মুসলিমগণের সঙ্ঘটিত একটি যুদ্ধ। মুসলিমদের ইতিহাস অনুসারে, মুসলিমগণ সেখানে দুর্গে আশ্রয় নেয়া ইহুদিদেরকে আক্রমণ করেছিল। ৭ম হিজরিতে মদীনা আক্রমণ করার ব্যাপারে খায়বারের ইহুদীদের নতুন ষড়যন্ত্রের কারনে খায়বার যুদ্ধ হয়। খায়বার ছিল মদীনা থেকে ৮০ মাইল দূরের একটি বড় শহর। এখানে ইহুদীদের অনেক গুলি দুর্গ ও ক্ষেত খামার ছিল। মূলত খায়বার ছিল ইহুদীদের একটি নতুন উপনিবেশ। খায়বারের ইহুদীরা বনু কোরাইজা গোত্রের ইহুদীদের কে বিশ্বাসঘাতকায় উদ্দীপিত করেছিল। এছাড়া মুহাম্মাদ (সা) কে হত্যা করার ষড়যন্ত্র এই খায়বার থেকে হত। খায়বারের ইহুদীরা গাতাফান গোত্র ও বেদুঈনদের সাথে মিলিত হয়ে মদীনা আক্রমণ করার ব্যাপারে ষড়যন্ত্র করছিল। খায়বার যুদ্ধে পরাজিত ইহুদীদের কে মুহাম্মাদ কোন নির্বাসন দেন নি। প্রতি বছর তাদের উৎপাদিত ফল ফসলের অর্ধেক ইহুদীরা মুসলমানদের কে দিবে এই শর্তে খায়বারের ইহুদীরা খায়বারে থাকার অনুমতি পায়। কিন্তু এই খায়বার যুদ্ধের পর পর এক ইহুদী মহিলা মুহাম্মাদকে আমন্ত্রণ করে ছাগলের মাংসের ভিতরে বিষ মিশিয়ে মুহাম্মাদকে হত্যা করতে চেয়েছিল। এই ঘটনার পরেও মুহাম্মাদ খায়বারের সকল ইহুদীদের কে ক্ষমা করে দিয়েছিলেন। এই যুদ্ধে আলী রাঃ একাই কামুস দুর্গের দরজা উত্তোলন করে বীরত্তের পরিচয় দিয়েছিলেন।"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+
+</LinearLayout>

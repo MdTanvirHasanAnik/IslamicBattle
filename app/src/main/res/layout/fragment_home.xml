@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/text_views"
+        android:text="ঐতিহাসিকদের মতে, মুহাম্মদ (সা.) তাঁর জীবদ্দশায় ২৭টি বড় ধরনের যুদ্ধ (গাজওয়া), ৬০টি ছোটখাটো দ্বন্দ্ব-সংঘর্ষ (সারিয়া) সরাসরি পরিচালনা করেছেন। (ইসলামী বিশ্বকোষ, পূর্বোক্ত) মুফতি শাফি (রহ.) লিখেছেন, বড় যুদ্ধ গাজওয়া ২৩টি এবং ছোটখাটো যুদ্ধ (সারিয়া) ৪৩টি। (মুফতি শাফি : সিরাতে খাতামুল আম্বিয়া, পূর্বোক্ত, পৃষ্ঠা ৮৫)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img"
+        android:src="@drawable/wp"
+
+    />
+
+</LinearLayout>

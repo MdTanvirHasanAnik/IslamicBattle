@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="হোম" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="বদরের যুদ্ধ" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="উহুদের যুদ্ধ" />
+        <item
+            android:id="@+id/nav_khandak"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="খন্দকের যুদ্ধ" />
+        <item
+            android:id="@+id/nav_khaybar"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="খায়বারের যুদ্ধ" />
+
+        <item
+            android:id="@+id/nav_makkah"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="মক্কা বিজয়" />
+
+        <item
+            android:id="@+id/nav_hunain"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="হুনাইনের যুদ্ধ" />
+        <item
+            android:id="@+id/nav_tabuk"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="তাবুকের যুদ্ধ" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_account_circle_black_24dp"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

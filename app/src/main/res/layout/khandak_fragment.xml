@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="খন্দকের যুদ্ধে ইহুদি ও মুর্তিপুজারিদের পরাজয়"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/text_views"
+        android:text="খন্দকের যুদ্ধ বা আহযাবের যুদ্ধ ৫ হিজরিতে (৬২৭ খ্রিষ্টাব্দ) সংঘটিত হয়। এসময় ২৭দিন ধরে আরব ও ইহুদি গোত্রগুলি মদিনা অবরোধ করে রাখে। জোট বাহিনীর সেনাসংখ্যা ছিল প্রায় ১০,০০০ এবং সেসাথে তাদের ৬০০ ঘোড়া ও কিছু উট ছিল। অন্যদিকে মদিনার বাহিনীতে সেনাসংখ্যা ছিল ৩,০০০।
+
+পারস্য থেকে আগত সাহাবি সালমান ফারসির পরামর্শে মুহাম্মাদ (সা) মদিনার চারপাশে পরিখা খননের নির্দেশ দেন।[৪][৫][৬] প্রাকৃতিকভাবে মদিনাতে যে প্রতিরক্ষা ব্যবস্থা ছিল তার সাথে এই ব্যবস্থা যুক্ত হয়ে আক্রমণকারীদেরকে নিষ্ক্রিয় করে ফেলে। জোটবাহিনী মুসলিমদের মিত্র মদিনার ইহুদি বনু কুরাইজা গোত্রকে নিজেদের পক্ষে আনে যাতে তারা দক্ষিণ দিক থেকে শহর আক্রমণ করে। কিন্তু মুসলিমদের তৎপরতার ফলে তাদের জোট ভেঙে যায়। মুসলিমদের সুসংগঠিত অবস্থা, জোটবাহিনীর আত্মবিশ্বাস হ্রাস ও খারাপ আবহাওয়ার কারণে শেষপর্যন্ত আক্রমণ ব্যর্থ হয়।
+
+এই যুদ্ধে জয়ের ফলে ইসলাম পূর্বের চেয়ে আরো বেশি প্রভাবশালী হয়ে উঠে।"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+
+</LinearLayout>

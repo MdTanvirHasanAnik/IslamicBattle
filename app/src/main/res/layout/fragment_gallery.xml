@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="১৭ রমজান। ৬২৪ খ্রিস্টাব্দে তথা দ্বিতীয় হিজরির দিনে সংঘটিত হয়েছিল ইসলামে চিরস্মরণীয় ও গৌরবময় অধ্যায় বদর যুদ্ধ। এটি ছিল সত্য ও মিথ্যার, হক ও বাতিলের, মুসলিম ও কাফেরদের মধ্যকার ঐতিহাসিক যুদ্ধ। এবং এটি ছিল ইসলামের প্রথম যুদ্ধ। মদিনার অদূরে অবস্থিত একটি কূপের নাম ছিল বদর। সেই সূত্রে এই কূপের নিকটবর্তী আঙিনাকে বলা হতো বদর প্রান্তর। এই বদর প্রান্তরেই মহান আল্লাহ তাঁর প্রিয় হাবিব নিরস্ত্র মুহাম্মাদুর রাসুলুল্লাহ (সা.) ও তাঁর সঙ্গীদের বিজয়ী করেছিলেন হাজার সশস্ত্র যোদ্ধার মোকাবেলায়। ঘটনার সূত্রপাত : মদিনায় বইতে থাকা ইসলামের বসন্তের হাওয়া মক্কার কাফেরদের বেশ ভাবিয়ে তুলেছিল। না জানি কখন এই হাওয়া দমকা হাওয়ায় রূপ নিয়ে তাদের উড়িয়ে নিয়ে যায়, কিংবা তাদের ব্যবসার পথে বাধা হয়ে দাঁড়ায়। তাই মুসলমানদের চিরতরে নিশ্চিহ্ন করার জন্য অর্থ জোগান ও অত্যাধুনিক সমরাস্ত্র ক্রয় করার উদ্দেশ্যে আবু সুফিয়ানের নেতৃত্বে মক্কার একটি বিশাল বাণিজ্য কাফেলা শামে গিয়েছিল। মক্কার প্রতিটি ঘর থেকে প্রত্যেকের সামর্থ্য অনুযায়ী অর্থ দিয়ে গঠন করা হয়েছিল ৪০ জন সশস্ত্র অশ্বারোহী যোদ্ধার পাহারায় এক হাজার মালবাহী উটের একটি বাণিজ্যিক বহর। "
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="সুরা আনফালে আল্লাহ তাআলা বদর প্রান্তে মুসলিম বাহিনীর অবস্থানের প্রসংশা করে বলেছেন, ‘স্মরণ করো, যখন তোমরা ছিলে নিকট প্রান্তে এবং তারা ছিল দূর প্রান্তে। উষ্ট্রারোহী দল ছিল তোমাদের চেয়ে নিম্নভূমিতে।’ (সুরা : আনফাল, আয়াত : ৪২)
+         বদর যুদ্ধের অবস্থা তুলে ধরে মহান আল্লাহ বলেছেন, ‘আল্লাহ তোমাদের বদরে সাহায্য করেছেন। অথচ তোমরা ক্ষীণশক্তি।’ (সুরা : আলে ইমরান, আয়াত : ১২৩)               "
+        />
+
+
+</LinearLayout>

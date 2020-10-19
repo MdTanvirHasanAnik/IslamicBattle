@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_slideshow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+<TextView
+    android:layout_marginTop="20dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="৩ হিজরির ৭ শাওয়াল (২৩ মার্চ ৬২৫ খ্রিষ্টাব্দ) উহুদ পর্বতের সংলগ্ন স্থানে সংঘটিত হয়।[৩] মদিনার মুসলিম ও মক্কার কুরাইশদের মধ্যে এই যুদ্ধ সংঘটিত হয়েছে। এই দুই পক্ষের নেতৃত্বে ছিলেন যথাক্রমে মুহাম্মাদ (সা) ও আবু সুফিয়ান। ইসলামের ইতিহাসে সংঘটিত প্রধান যুদ্ধসমূহের মধ্যে এটি দ্বিতীয়। এর পূর্বে ৬২৪ সালে এই দুইপক্ষের মধ্যে বদরের যুদ্ধ সংঘটিত হয়েছিল।
+
+বদরের পরাজয়ের প্রতিশোধ নেয়ার জন্য মক্কার পক্ষ থেকে এই যুদ্ধের সূচনা করা হয়েছিল। যুদ্ধযাত্রার খবর পাওয়ার পর মুসলিমরাও তৈরী হয় এবং উহুদ পর্বত সংলগ্ন প্রান্তরে এই যুদ্ধ সংঘটিত হয়।
+
+সংখ্যায় কম হওয়া সত্ত্বেও মুসলিমরা প্রথমদিকে সাফল্য লাভ করেছিল এবং মক্কার সৈনিকরা পিছু হটতে বাধ্য হয়। বিজয়ের খুব কাছাকাছি থাকা অবস্থায়মুসলিম সৈন্যরা বিজয়ে আত্মহারা হয়ে রসুল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পরবর্তী হুকুমের অপেক্ষা না করে গনিমতের মাল সংগ্রহ করতে ময়দানে ঝাঁপিয়ে পড়েন এ কারণে যুদ্ধের মোড় ঘুরে যায়। মুহাম্মাদ (সা) মুসলিম তীরন্দাজদেরকে নির্দেশ দিয়েছিলেন যে ফলাফল যাই হোক তারা তাদের অবস্থান থেকে সরে না আসে। কিন্তু তারা অবস্থান ত্যাগ করার পর মক্কার বাহিনীর অন্যতম সেনাপতি খালিদ বিন ওয়ালিদ মুসলিমদের উপর আক্রমণের সুযোগ পান ফলে মুসলিমদের মধ্যে বিশৃঙ্খলা তৈরী হয়। এসময় অনেক মুসলিম নিহত হয়। মুহাম্মাদ (সা) নিজেও আহত হয়েছিলেন।  ফলে শেষপর্যায়ে মুসলিমদের তুলনামূলক বেশি ক্ষয়ক্ষতি ও কুরাইশদের সুবিধাজনক অবস্থান সত্ত্বেও যুদ্ধের ফলাফল অমীমাংসিত রয়ে যায়।"
+    />
+</LinearLayout>

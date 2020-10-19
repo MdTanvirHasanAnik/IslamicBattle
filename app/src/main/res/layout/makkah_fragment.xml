@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="মক্কা বিজয়"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/text_views"
+        android:text="নবী হযরত মুহাম্মদ (সা:) খ্রিস্টীয় ৬৩০ অব্দে রক্তপাতহীনভাবে মক্কা নগরী দখল করেন। ইতিহাসে এই ঘটনা মক্কা বিজয়(আরবি: فتح مكة ‎‎ fatḥ makkah) নামে খ্যাত।[৩] ঐতিহাসিকদের মতে মক্কা বিজয় ইসলামের ইতিহাসে সর্বশ্রেষ্ঠ বিজয় যদিও আল কুরআনে হুদাইবিয়ার সন্ধিকেই প্রকাশ্য বিজয় বলে উল্লেখ করা হয়েছে। মূলত প্রকৃতপক্ষে হুদাইবিয়ার সন্ধি এবং মক্কা বিজয় দুটিই মুহাম্মদের অতুলনীয় দূরদর্শীতার ফল। হুদাইবিয়ার সন্ধির মাধ্যমে যে বিজয়ের সূত্রপাত হয়েছিল তার চূড়ান্ত রূপই ছিল মক্কা বিজয়। এই বিজয়ের ফলে মুসলমানদের পক্ষে আরবের অন্যান্য এলাকা বিজয় করা সহজসাধ্য হয়ে পড়ে। হুদাইবিয়ার সন্ধি মোতাবেক সন্ধির পরবর্তী বছর মুহাম্মদ ২০০০ সাহাবা নিয়ে মক্কায় উমরাতুল ক্বাযা পালন করতে আসেন এবং এ সময়ই তিনি মক্কার কুরাইশদের মধ্যে নেতৃত্বের শুন্যতা লক্ষ্য করেন। তাদের ক্ষাত্রশক্তির সঠিক পরিমাপ করতে পেরেছিলেন তিনি এবং এজন্যই অধীর ছিলেন মক্কা বিজয়ের জন্য। এর ১ বছরের মাথায়ই তিনি তা সম্পন্ন করার জন্য মনস্থির করেন।"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+
+</LinearLayout>

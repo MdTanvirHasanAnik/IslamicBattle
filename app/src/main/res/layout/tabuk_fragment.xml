@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="তাবুক যুদ্ধ ও রোমশক্তির পরাজয়"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/text_views"
+        android:text=" গাজওয়ে তাবুক বা তাবুক যুদ্ধ। এটি ছিলো ইসলামের নবী মুহাম্মদের জীবনের শেষ যুদ্ধ এবং যা রোম সম্রাজ্যের বিরুদ্ধে পরিচালিত হয়। তৎকালীন সময়ের অর্ধেক পৃথিবীর একচ্ছত্র শাসক রোম সম্রাটের সিরিয় গভর্নরের বিরুদ্ধে ৮ম হিজরীর জুমাদাল ঊলা মাসে পরিচালিত ‘মুতা’ অভিযানে এক অসম যুদ্ধে রোমকদের পিছুটানের ফলে আরব উপদ্বীপে মুসলিম শক্তির শ্রদ্ধাপূর্ণ প্রভাব বিস্তৃত হয়। ইসলামের ইতিহাসে এটি তাবুক অভিযান নামেও পরিচিত। মুসলিম বাহিনীর তাবুকে উপস্থিতির খবর শুনে রোমক ও তাদের মিত্ররা ভীত হয়ে দের সীমান্তের অভ্যন্তরে বিভিন্ন শহরে বিক্ষিপ্ত হয়ে ছড়িয়ে পড়ল। তৎকালীন বিশ্বশক্তির এই বিনাযুদ্ধে পলায়নের ফলে সমস্ত আরব উপদ্বীপে মুসলিম শক্তির জন্য সব রাজনৈতিক সুবিধা এনে দেয়।  "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+
+</LinearLayout>
